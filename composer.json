@@ -1,0 +1,13 @@
+{
+    "name": "vendor/rent-a-flat-symfony",
+    "description": "Description of project RentAFlat_Symfony.",
+    "authors": [
+        {
+            "name": "DADDY",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "symfony/symfony1": "1.4.x-dev"
+    }
+}

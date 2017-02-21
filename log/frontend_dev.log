@@ -1,0 +1,311 @@
+Feb 20 23:28:20 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'content',  'action' => 'index',)
+Feb 20 23:33:38 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'content',  'action' => 'index',)
+Feb 20 23:44:36 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'content',  'action' => 'index',)
+Feb 21 01:24:13 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'content',  'action' => 'index',)
+Feb 21 01:24:19 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'content',  'action' => 'index',)
+Feb 21 01:26:34 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'content',  'action' => 'index',)
+Feb 21 01:27:53 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'content',  'action' => 'index',)
+Feb 21 01:29:38 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'content',  'action' => 'index',)
+Feb 21 01:30:01 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'content',  'action' => 'index',)
+Feb 21 01:30:20 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'content',  'action' => 'index',)
+Feb 21 01:32:38 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'content',  'action' => 'index',)
+Feb 21 01:37:07 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'content',  'action' => 'index',)
+Feb 21 01:37:07 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php on line 61 (call_user_func() expects parameter 1 to be a valid callback, function 'C:\xampp\htdocs\RentAFlat_Symfony\config/../vendor/swiftmailer/swiftmailer/lib/swift_init.php' not found or invalid function name)
+Feb 21 01:37:09 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 21 01:37:09 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 21 01:37:09 symfony [info] {contentActions} Call "contentActions->executeIndex()"
+Feb 21 01:37:09 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\RentAFlat_Symfony\apps\frontend\modules/content/templates/indexSuccess.php"
+Feb 21 01:37:10 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\RentAFlat_Symfony\apps\frontend\templates/layout.php"
+Feb 21 01:37:10 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\RentAFlat_Symfony\apps\frontend\templates/layout.php"
+Feb 21 01:37:10 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\symfony\symfony1\lib\response\sfWebResponse.class.php on line 336 (Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php:61))
+Feb 21 01:37:10 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 21 01:37:10 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\symfony\symfony1\lib\response\sfWebResponse.class.php on line 357 (Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php:61))
+Feb 21 01:37:10 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 21 01:37:10 symfony [info] {sfWebDebugLogger} Configuration 658.15 ms (10)
+Feb 21 01:37:10 symfony [info] {sfWebDebugLogger} Factories 1494.92 ms (1)
+Feb 21 01:37:10 symfony [info] {sfWebDebugLogger} Action "content/index" 2.25 ms (1)
+Feb 21 01:37:10 symfony [info] {sfWebDebugLogger} View "Success" for "content/index" 1019.80 ms (1)
+Feb 21 01:37:11 symfony [info] {sfWebResponse} Send content (35692 o)
+Feb 21 01:38:08 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'content',  'action' => 'index',)
+Feb 21 01:38:08 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php on line 61 (call_user_func() expects parameter 1 to be a valid callback, function 'C:\xampp\htdocs\RentAFlat_Symfony\config/../vendor/swiftmailer/swiftmailer/lib/swift_init.php' not found or invalid function name)
+Feb 21 01:38:08 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 21 01:38:08 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 21 01:38:08 symfony [info] {contentActions} Call "contentActions->executeIndex()"
+Feb 21 01:38:08 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\RentAFlat_Symfony\apps\frontend\modules/content/templates/indexSuccess.php"
+Feb 21 01:38:08 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\RentAFlat_Symfony\apps\frontend\templates/layout.php"
+Feb 21 01:38:08 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\RentAFlat_Symfony\apps\frontend\templates/layout.php"
+Feb 21 01:38:08 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\symfony\symfony1\lib\response\sfWebResponse.class.php on line 336 (Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php:61))
+Feb 21 01:38:08 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 21 01:38:08 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\symfony\symfony1\lib\response\sfWebResponse.class.php on line 357 (Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php:61))
+Feb 21 01:38:08 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 21 01:38:08 symfony [info] {sfWebDebugLogger} Configuration 32.87 ms (9)
+Feb 21 01:38:08 symfony [info] {sfWebDebugLogger} Factories 144.62 ms (1)
+Feb 21 01:38:08 symfony [info] {sfWebDebugLogger} Action "content/index" 2.64 ms (1)
+Feb 21 01:38:08 symfony [info] {sfWebDebugLogger} View "Success" for "content/index" 69.87 ms (1)
+Feb 21 01:38:09 symfony [info] {sfWebResponse} Send content (36010 o)
+Feb 21 01:38:11 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /property/all with parameters array (  'module' => 'property',  'action' => 'all',)
+Feb 21 01:38:11 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php on line 61 (call_user_func() expects parameter 1 to be a valid callback, function 'C:\xampp\htdocs\RentAFlat_Symfony\config/../vendor/swiftmailer/swiftmailer/lib/swift_init.php' not found or invalid function name)
+Feb 21 01:38:12 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 21 01:38:12 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 21 01:38:12 symfony [info] {propertyActions} Call "propertyActions->executeAll()"
+Feb 21 01:38:12 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Feb 21 01:38:12 symfony [info] {Doctrine_Connection_Mysql} query : SELECT p.id AS p__id, p.reference_no AS p__reference_no, p.title AS p__title, p.text AS p__text, p.disposition_id AS p__disposition_id, p.area AS p__area, p.floor AS p__floor, p.lift AS p__lift, p.cellar AS p__cellar, p.balcony AS p__balcony, p.location_id AS p__location_id, p.price AS p__price, p.created_on AS p__created_on, p.street AS p__street, p.property_build_id AS p__property_build_id, p.terace AS p__terace, p.loggia AS p__loggia, p.garden AS p__garden, p.garage AS p__garage, p.parking_place AS p__parking_place FROM property p - ()
+Feb 21 01:38:13 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\RentAFlat_Symfony\apps\frontend\modules/property/templates/allSuccess.php"
+Feb 21 01:38:13 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\RentAFlat_Symfony\apps\frontend\templates/layout.php"
+Feb 21 01:38:13 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\RentAFlat_Symfony\apps\frontend\templates/layout.php"
+Feb 21 01:38:13 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\symfony\symfony1\lib\response\sfWebResponse.class.php on line 336 (Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php:61))
+Feb 21 01:38:13 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 21 01:38:13 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\symfony\symfony1\lib\response\sfWebResponse.class.php on line 357 (Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php:61))
+Feb 21 01:38:13 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 21 01:38:13 symfony [info] {sfWebDebugLogger} Configuration 311.51 ms (10)
+Feb 21 01:38:13 symfony [info] {sfWebDebugLogger} Factories 194.61 ms (1)
+Feb 21 01:38:13 symfony [info] {sfWebDebugLogger} Action "property/all" 954.99 ms (1)
+Feb 21 01:38:13 symfony [info] {sfWebDebugLogger} Database (Doctrine) 2.75 ms (2)
+Feb 21 01:38:13 symfony [info] {sfWebDebugLogger} View "Success" for "property/all" 284.00 ms (1)
+Feb 21 01:38:13 symfony [info] {sfWebResponse} Send content (40623 o)
+Feb 21 01:38:16 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /property/add with parameters array (  'module' => 'property',  'action' => 'add',)
+Feb 21 01:38:16 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php on line 61 (call_user_func() expects parameter 1 to be a valid callback, function 'C:\xampp\htdocs\RentAFlat_Symfony\config/../vendor/swiftmailer/swiftmailer/lib/swift_init.php' not found or invalid function name)
+Feb 21 01:38:16 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 21 01:38:16 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 21 01:38:16 symfony [info] {propertyActions} Call "propertyActions->executeAdd()"
+Feb 21 01:38:17 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\RentAFlat_Symfony\apps\frontend\modules/property/templates/addSuccess.php"
+Feb 21 01:38:18 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Feb 21 01:38:18 symfony [info] {Doctrine_Connection_Mysql} query : SELECT d.id AS d__id, d.text AS d__text FROM disposition d - ()
+Feb 21 01:38:18 symfony [info] {Doctrine_Connection_Mysql} query : SELECT l.id AS l__id, l.city_part AS l__city_part, l.city AS l__city FROM location l - ()
+Feb 21 01:38:18 symfony [info] {Doctrine_Connection_Mysql} query : SELECT p.id AS p__id, p.text AS p__text FROM property_build p - ()
+Feb 21 01:38:18 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\RentAFlat_Symfony\apps\frontend\templates/layout.php"
+Feb 21 01:38:18 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\RentAFlat_Symfony\apps\frontend\templates/layout.php"
+Feb 21 01:38:18 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\symfony\symfony1\lib\response\sfWebResponse.class.php on line 336 (Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php:61))
+Feb 21 01:38:18 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 21 01:38:18 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\symfony\symfony1\lib\response\sfWebResponse.class.php on line 357 (Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php:61))
+Feb 21 01:38:18 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 21 01:38:18 symfony [info] {sfWebDebugLogger} Configuration 29.67 ms (9)
+Feb 21 01:38:18 symfony [info] {sfWebDebugLogger} Factories 542.17 ms (1)
+Feb 21 01:38:18 symfony [info] {sfWebDebugLogger} Action "property/add" 1056.38 ms (1)
+Feb 21 01:38:18 symfony [info] {sfWebDebugLogger} View "Success" for "property/add" 546.98 ms (1)
+Feb 21 01:38:18 symfony [info] {sfWebDebugLogger} Database (Doctrine) 5.43 ms (4)
+Feb 21 01:38:19 symfony [info] {sfWebResponse} Send content (48419 o)
+Feb 21 01:38:28 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /my-favorites with parameters array (  'module' => 'my-favorites',  'action' => 'index',)
+Feb 21 01:38:28 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php on line 61 (call_user_func() expects parameter 1 to be a valid callback, function 'C:\xampp\htdocs\RentAFlat_Symfony\config/../vendor/swiftmailer/swiftmailer/lib/swift_init.php' not found or invalid function name)
+Feb 21 01:38:29 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 21 01:38:29 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 21 01:38:29 symfony [info] {myfavoritesActions} Call "myfavoritesActions->executeIndex()"
+Feb 21 01:38:29 symfony [info] {myfavoritesActions} Forward to action "my-favorites/no-results"
+Feb 21 01:38:29 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 21 01:38:29 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 21 01:38:29 symfony [info] {myfavoritesActions} Call "myfavoritesActions->executeNoresults()"
+Feb 21 01:38:29 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\RentAFlat_Symfony\apps\frontend\modules/myfavorites/templates/noresultsSuccess.php"
+Feb 21 01:38:29 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\RentAFlat_Symfony\apps\frontend\templates/layout.php"
+Feb 21 01:38:29 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\RentAFlat_Symfony\apps\frontend\templates/layout.php"
+Feb 21 01:38:29 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\symfony\symfony1\lib\response\sfWebResponse.class.php on line 336 (Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php:61))
+Feb 21 01:38:29 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 21 01:38:29 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\symfony\symfony1\lib\response\sfWebResponse.class.php on line 357 (Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php:61))
+Feb 21 01:38:29 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 21 01:38:29 symfony [info] {sfWebDebugLogger} Configuration 325.21 ms (13)
+Feb 21 01:38:29 symfony [info] {sfWebDebugLogger} Factories 175.18 ms (1)
+Feb 21 01:38:29 symfony [info] {sfWebDebugLogger} Action "myfavorites/index" 971.59 ms (1)
+Feb 21 01:38:30 symfony [info] {sfWebDebugLogger} Action "myfavorites/noresults" 3.33 ms (1)
+Feb 21 01:38:30 symfony [info] {sfWebDebugLogger} View "Success" for "myfavorites/noresults" 190.94 ms (1)
+Feb 21 01:38:30 symfony [info] {sfWebResponse} Send content (37614 o)
+Feb 21 01:39:18 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /my-favorites with parameters array (  'module' => 'my-favorites',  'action' => 'index',)
+Feb 21 01:39:18 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php on line 61 (call_user_func() expects parameter 1 to be a valid callback, function 'C:\xampp\htdocs\RentAFlat_Symfony\config/../vendor/swiftmailer/swiftmailer/lib/swift_init.php' not found or invalid function name)
+Feb 21 01:39:18 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 21 01:39:18 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 21 01:39:18 symfony [info] {myfavoritesActions} Call "myfavoritesActions->executeIndex()"
+Feb 21 01:39:18 symfony [info] {myfavoritesActions} Forward to action "my-favorites/no-results"
+Feb 21 01:39:18 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 21 01:39:18 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 21 01:39:18 symfony [info] {myfavoritesActions} Call "myfavoritesActions->executeNoresults()"
+Feb 21 01:39:18 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\RentAFlat_Symfony\apps\frontend\modules/myfavorites/templates/noresultsSuccess.php"
+Feb 21 01:39:18 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\RentAFlat_Symfony\apps\frontend\templates/layout.php"
+Feb 21 01:39:18 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\RentAFlat_Symfony\apps\frontend\templates/layout.php"
+Feb 21 01:39:18 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\symfony\symfony1\lib\response\sfWebResponse.class.php on line 336 (Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php:61))
+Feb 21 01:39:18 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 21 01:39:18 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\symfony\symfony1\lib\response\sfWebResponse.class.php on line 357 (Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php:61))
+Feb 21 01:39:19 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 21 01:39:19 symfony [info] {sfWebDebugLogger} Configuration 40.12 ms (12)
+Feb 21 01:39:19 symfony [info] {sfWebDebugLogger} Factories 214.76 ms (1)
+Feb 21 01:39:19 symfony [info] {sfWebDebugLogger} Action "myfavorites/index" 868.31 ms (1)
+Feb 21 01:39:19 symfony [info] {sfWebDebugLogger} Action "myfavorites/noresults" 2.59 ms (1)
+Feb 21 01:39:19 symfony [info] {sfWebDebugLogger} View "Success" for "myfavorites/noresults" 66.99 ms (1)
+Feb 21 01:39:19 symfony [info] {sfWebResponse} Send content (37643 o)
+Feb 21 01:39:25 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'content',  'action' => 'index',)
+Feb 21 01:39:25 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php on line 61 (call_user_func() expects parameter 1 to be a valid callback, function 'C:\xampp\htdocs\RentAFlat_Symfony\config/../vendor/swiftmailer/swiftmailer/lib/swift_init.php' not found or invalid function name)
+Feb 21 01:39:25 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 21 01:39:25 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 21 01:39:25 symfony [info] {contentActions} Call "contentActions->executeIndex()"
+Feb 21 01:39:25 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\RentAFlat_Symfony\apps\frontend\modules/content/templates/indexSuccess.php"
+Feb 21 01:39:25 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\RentAFlat_Symfony\apps\frontend\templates/layout.php"
+Feb 21 01:39:25 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\RentAFlat_Symfony\apps\frontend\templates/layout.php"
+Feb 21 01:39:25 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\symfony\symfony1\lib\response\sfWebResponse.class.php on line 336 (Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php:61))
+Feb 21 01:39:25 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 21 01:39:25 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\symfony\symfony1\lib\response\sfWebResponse.class.php on line 357 (Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php:61))
+Feb 21 01:39:25 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 21 01:39:25 symfony [info] {sfWebDebugLogger} Configuration 31.37 ms (9)
+Feb 21 01:39:25 symfony [info] {sfWebDebugLogger} Factories 210.75 ms (1)
+Feb 21 01:39:25 symfony [info] {sfWebDebugLogger} Action "content/index" 2.07 ms (1)
+Feb 21 01:39:25 symfony [info] {sfWebDebugLogger} View "Success" for "content/index" 69.42 ms (1)
+Feb 21 01:39:26 symfony [info] {sfWebResponse} Send content (36069 o)
+Feb 21 01:43:01 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'content',  'action' => 'index',)
+Feb 21 01:43:01 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\symfony\symfony1\lib\autoload\sfCoreAutoload.class.php on line 99 (require(C:\xampp\htdocs\RentAFlat_Symfony\vendor\symfony\symfony1\lib/../mailer/sfMailer.class.php): failed to open stream: No such file or directory)
+Feb 21 01:44:27 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'content',  'action' => 'index',)
+Feb 21 01:45:12 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'content',  'action' => 'index',)
+Feb 21 01:45:12 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php on line 61 (call_user_func() expects parameter 1 to be a valid callback, function 'C:\xampp\htdocs\RentAFlat_Symfony\config/../vendor/swiftmailer/swiftmailer/lib/swift_init.php' not found or invalid function name)
+Feb 21 01:45:12 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 21 01:45:12 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 21 01:45:12 symfony [info] {contentActions} Call "contentActions->executeIndex()"
+Feb 21 01:45:12 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\RentAFlat_Symfony\apps\frontend\modules/content/templates/indexSuccess.php"
+Feb 21 01:45:12 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\RentAFlat_Symfony\apps\frontend\templates/layout.php"
+Feb 21 01:45:12 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\RentAFlat_Symfony\apps\frontend\templates/layout.php"
+Feb 21 01:45:12 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\symfony\symfony1\lib\response\sfWebResponse.class.php on line 336 (Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php:61))
+Feb 21 01:45:12 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 21 01:45:12 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\symfony\symfony1\lib\response\sfWebResponse.class.php on line 357 (Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php:61))
+Feb 21 01:45:12 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 21 01:45:12 symfony [info] {sfWebDebugLogger} Configuration 28.16 ms (9)
+Feb 21 01:45:12 symfony [info] {sfWebDebugLogger} Factories 148.97 ms (1)
+Feb 21 01:45:12 symfony [info] {sfWebDebugLogger} Action "content/index" 2.13 ms (1)
+Feb 21 01:45:12 symfony [info] {sfWebDebugLogger} View "Success" for "content/index" 71.29 ms (1)
+Feb 21 01:45:12 symfony [info] {sfWebResponse} Send content (36101 o)
+Feb 21 01:45:17 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /content/readme with parameters array (  'module' => 'content',  'action' => 'readme',)
+Feb 21 01:45:17 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php on line 61 (call_user_func() expects parameter 1 to be a valid callback, function 'C:\xampp\htdocs\RentAFlat_Symfony\config/../vendor/swiftmailer/swiftmailer/lib/swift_init.php' not found or invalid function name)
+Feb 21 01:45:17 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 21 01:45:17 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 21 01:45:17 symfony [info] {contentActions} Call "contentActions->executeReadme()"
+Feb 21 01:45:17 symfony [info] {contentActions} Change layout to ""
+Feb 21 01:45:17 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\RentAFlat_Symfony\apps\frontend\modules/content/templates/readmeSuccess.php"
+Feb 21 01:45:17 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\symfony\symfony1\lib\response\sfWebResponse.class.php on line 336 (Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php:61))
+Feb 21 01:45:17 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 21 01:45:17 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\symfony\symfony1\lib\response\sfWebResponse.class.php on line 357 (Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php:61))
+Feb 21 01:45:18 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 21 01:45:18 symfony [info] {sfWebDebugLogger} Configuration 30.25 ms (9)
+Feb 21 01:45:18 symfony [info] {sfWebDebugLogger} Factories 199.13 ms (1)
+Feb 21 01:45:18 symfony [info] {sfWebDebugLogger} Action "content/readme" 6.22 ms (1)
+Feb 21 01:45:18 symfony [info] {sfWebDebugLogger} View "Success" for "content/readme" 79.15 ms (1)
+Feb 21 01:45:18 symfony [info] {sfWebResponse} Send content (40722 o)
+Feb 21 01:45:35 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /property/add with parameters array (  'module' => 'property',  'action' => 'add',)
+Feb 21 01:45:35 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php on line 61 (call_user_func() expects parameter 1 to be a valid callback, function 'C:\xampp\htdocs\RentAFlat_Symfony\config/../vendor/swiftmailer/swiftmailer/lib/swift_init.php' not found or invalid function name)
+Feb 21 01:45:35 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 21 01:45:35 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 21 01:45:35 symfony [info] {propertyActions} Call "propertyActions->executeAdd()"
+Feb 21 01:45:35 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\RentAFlat_Symfony\apps\frontend\modules/property/templates/addSuccess.php"
+Feb 21 01:45:35 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Feb 21 01:45:35 symfony [info] {Doctrine_Connection_Mysql} query : SELECT d.id AS d__id, d.text AS d__text FROM disposition d - ()
+Feb 21 01:45:35 symfony [info] {Doctrine_Connection_Mysql} query : SELECT l.id AS l__id, l.city_part AS l__city_part, l.city AS l__city FROM location l - ()
+Feb 21 01:45:35 symfony [info] {Doctrine_Connection_Mysql} query : SELECT p.id AS p__id, p.text AS p__text FROM property_build p - ()
+Feb 21 01:45:36 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\RentAFlat_Symfony\apps\frontend\templates/layout.php"
+Feb 21 01:45:36 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\RentAFlat_Symfony\apps\frontend\templates/layout.php"
+Feb 21 01:45:36 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\symfony\symfony1\lib\response\sfWebResponse.class.php on line 336 (Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php:61))
+Feb 21 01:45:36 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 21 01:45:36 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\symfony\symfony1\lib\response\sfWebResponse.class.php on line 357 (Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php:61))
+Feb 21 01:45:36 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 21 01:45:36 symfony [info] {sfWebDebugLogger} Configuration 27.07 ms (9)
+Feb 21 01:45:36 symfony [info] {sfWebDebugLogger} Factories 202.81 ms (1)
+Feb 21 01:45:36 symfony [info] {sfWebDebugLogger} Action "property/add" 214.56 ms (1)
+Feb 21 01:45:36 symfony [info] {sfWebDebugLogger} View "Success" for "property/add" 302.94 ms (1)
+Feb 21 01:45:36 symfony [info] {sfWebDebugLogger} Database (Doctrine) 5.36 ms (4)
+Feb 21 01:45:36 symfony [info] {sfWebResponse} Send content (48452 o)
+Feb 21 01:48:01 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /property/add with parameters array (  'module' => 'property',  'action' => 'add',)
+Feb 21 01:48:01 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php on line 61 (call_user_func() expects parameter 1 to be a valid callback, function 'C:\xampp\htdocs\RentAFlat_Symfony\config/../vendor/swiftmailer/swiftmailer/lib/swift_init.php' not found or invalid function name)
+Feb 21 01:48:01 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 21 01:48:01 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 21 01:48:01 symfony [info] {propertyActions} Call "propertyActions->executeAdd()"
+Feb 21 01:48:01 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\RentAFlat_Symfony\apps\frontend\modules/property/templates/addSuccess.php"
+Feb 21 01:48:01 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Feb 21 01:48:01 symfony [info] {Doctrine_Connection_Mysql} query : SELECT d.id AS d__id, d.text AS d__text FROM disposition d - ()
+Feb 21 01:48:01 symfony [info] {Doctrine_Connection_Mysql} query : SELECT l.id AS l__id, l.city_part AS l__city_part, l.city AS l__city FROM location l - ()
+Feb 21 01:48:01 symfony [info] {Doctrine_Connection_Mysql} query : SELECT p.id AS p__id, p.text AS p__text FROM property_build p - ()
+Feb 21 01:48:01 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\RentAFlat_Symfony\apps\frontend\templates/layout.php"
+Feb 21 01:48:01 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\RentAFlat_Symfony\apps\frontend\templates/layout.php"
+Feb 21 01:48:01 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\symfony\symfony1\lib\response\sfWebResponse.class.php on line 336 (Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php:61))
+Feb 21 01:48:02 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 21 01:48:02 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\symfony\symfony1\lib\response\sfWebResponse.class.php on line 357 (Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php:61))
+Feb 21 01:48:02 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 21 01:48:02 symfony [info] {sfWebDebugLogger} Configuration 26.42 ms (9)
+Feb 21 01:48:02 symfony [info] {sfWebDebugLogger} Factories 179.80 ms (1)
+Feb 21 01:48:02 symfony [info] {sfWebDebugLogger} Action "property/add" 194.86 ms (1)
+Feb 21 01:48:02 symfony [info] {sfWebDebugLogger} View "Success" for "property/add" 296.70 ms (1)
+Feb 21 01:48:02 symfony [info] {sfWebDebugLogger} Database (Doctrine) 4.69 ms (4)
+Feb 21 01:48:02 symfony [info] {sfWebResponse} Send content (48483 o)
+Feb 21 01:49:51 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /property/add with parameters array (  'module' => 'property',  'action' => 'add',)
+Feb 21 01:49:51 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php on line 61 (call_user_func() expects parameter 1 to be a valid callback, function 'C:\xampp\htdocs\RentAFlat_Symfony\config/../vendor/swiftmailer/swiftmailer/lib/swift_init.php' not found or invalid function name)
+Feb 21 01:49:51 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 21 01:49:51 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 21 01:49:51 symfony [info] {propertyActions} Call "propertyActions->executeAdd()"
+Feb 21 01:49:52 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\RentAFlat_Symfony\apps\frontend\modules/property/templates/addSuccess.php"
+Feb 21 01:49:52 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Feb 21 01:49:52 symfony [info] {Doctrine_Connection_Mysql} query : SELECT d.id AS d__id, d.text AS d__text FROM disposition d - ()
+Feb 21 01:49:52 symfony [info] {Doctrine_Connection_Mysql} query : SELECT l.id AS l__id, l.city_part AS l__city_part, l.city AS l__city FROM location l - ()
+Feb 21 01:49:52 symfony [info] {Doctrine_Connection_Mysql} query : SELECT p.id AS p__id, p.text AS p__text FROM property_build p - ()
+Feb 21 01:49:52 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\RentAFlat_Symfony\apps\frontend\templates/layout.php"
+Feb 21 01:49:52 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\RentAFlat_Symfony\apps\frontend\templates/layout.php"
+Feb 21 01:49:52 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\symfony\symfony1\lib\response\sfWebResponse.class.php on line 336 (Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php:61))
+Feb 21 01:49:52 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 21 01:49:52 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\symfony\symfony1\lib\response\sfWebResponse.class.php on line 357 (Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php:61))
+Feb 21 01:49:52 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 21 01:49:52 symfony [info] {sfWebDebugLogger} Configuration 30.47 ms (9)
+Feb 21 01:49:52 symfony [info] {sfWebDebugLogger} Factories 178.56 ms (1)
+Feb 21 01:49:52 symfony [info] {sfWebDebugLogger} Action "property/add" 196.99 ms (1)
+Feb 21 01:49:52 symfony [info] {sfWebDebugLogger} View "Success" for "property/add" 323.83 ms (1)
+Feb 21 01:49:52 symfony [info] {sfWebDebugLogger} Database (Doctrine) 4.83 ms (4)
+Feb 21 01:49:52 symfony [info] {sfWebResponse} Send content (48484 o)
+Feb 21 01:49:56 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /my-favorites with parameters array (  'module' => 'my-favorites',  'action' => 'index',)
+Feb 21 01:49:56 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php on line 61 (call_user_func() expects parameter 1 to be a valid callback, function 'C:\xampp\htdocs\RentAFlat_Symfony\config/../vendor/swiftmailer/swiftmailer/lib/swift_init.php' not found or invalid function name)
+Feb 21 01:49:57 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 21 01:49:57 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 21 01:49:57 symfony [info] {myfavoritesActions} Call "myfavoritesActions->executeIndex()"
+Feb 21 01:49:57 symfony [info] {myfavoritesActions} Forward to action "my-favorites/no-results"
+Feb 21 01:49:57 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 21 01:49:57 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 21 01:49:57 symfony [info] {myfavoritesActions} Call "myfavoritesActions->executeNoresults()"
+Feb 21 01:49:57 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\RentAFlat_Symfony\apps\frontend\modules/myfavorites/templates/noresultsSuccess.php"
+Feb 21 01:49:57 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\RentAFlat_Symfony\apps\frontend\templates/layout.php"
+Feb 21 01:49:57 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\RentAFlat_Symfony\apps\frontend\templates/layout.php"
+Feb 21 01:49:57 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\symfony\symfony1\lib\response\sfWebResponse.class.php on line 336 (Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php:61))
+Feb 21 01:49:57 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 21 01:49:57 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\symfony\symfony1\lib\response\sfWebResponse.class.php on line 357 (Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php:61))
+Feb 21 01:49:57 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 21 01:49:57 symfony [info] {sfWebDebugLogger} Configuration 40.51 ms (12)
+Feb 21 01:49:57 symfony [info] {sfWebDebugLogger} Factories 184.84 ms (1)
+Feb 21 01:49:57 symfony [info] {sfWebDebugLogger} Action "myfavorites/index" 859.39 ms (1)
+Feb 21 01:49:57 symfony [info] {sfWebDebugLogger} Action "myfavorites/noresults" 2.46 ms (1)
+Feb 21 01:49:57 symfony [info] {sfWebDebugLogger} View "Success" for "myfavorites/noresults" 66.70 ms (1)
+Feb 21 01:49:58 symfony [info] {sfWebResponse} Send content (37611 o)
+Feb 21 01:50:53 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /my-favorites with parameters array (  'module' => 'my-favorites',  'action' => 'index',)
+Feb 21 01:50:53 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php on line 61 (call_user_func() expects parameter 1 to be a valid callback, function 'C:\xampp\htdocs\RentAFlat_Symfony\config/../vendor/swiftmailer/swiftmailer/lib/swift_init.php' not found or invalid function name)
+Feb 21 01:50:53 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 21 01:50:53 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 21 01:50:53 symfony [info] {myfavoritesActions} Call "myfavoritesActions->executeIndex()"
+Feb 21 01:50:53 symfony [info] {myfavoritesActions} Forward to action "my-favorites/no-results"
+Feb 21 01:50:53 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 21 01:50:53 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 21 01:50:53 symfony [info] {myfavoritesActions} Call "myfavoritesActions->executeNoresults()"
+Feb 21 01:50:53 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\RentAFlat_Symfony\apps\frontend\modules/myfavorites/templates/noresultsSuccess.php"
+Feb 21 01:50:53 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\RentAFlat_Symfony\apps\frontend\templates/layout.php"
+Feb 21 01:50:53 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\RentAFlat_Symfony\apps\frontend\templates/layout.php"
+Feb 21 01:50:53 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\symfony\symfony1\lib\response\sfWebResponse.class.php on line 336 (Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php:61))
+Feb 21 01:50:53 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 21 01:50:53 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\symfony\symfony1\lib\response\sfWebResponse.class.php on line 357 (Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php:61))
+Feb 21 01:50:54 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 21 01:50:54 symfony [info] {sfWebDebugLogger} Configuration 37.24 ms (12)
+Feb 21 01:50:54 symfony [info] {sfWebDebugLogger} Factories 209.45 ms (1)
+Feb 21 01:50:54 symfony [info] {sfWebDebugLogger} Action "myfavorites/index" 850.11 ms (1)
+Feb 21 01:50:54 symfony [info] {sfWebDebugLogger} Action "myfavorites/noresults" 2.49 ms (1)
+Feb 21 01:50:54 symfony [info] {sfWebDebugLogger} View "Success" for "myfavorites/noresults" 71.69 ms (1)
+Feb 21 01:50:54 symfony [info] {sfWebResponse} Send content (37643 o)
+Feb 21 01:50:58 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'content',  'action' => 'index',)
+Feb 21 01:50:58 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php on line 61 (call_user_func() expects parameter 1 to be a valid callback, function 'C:\xampp\htdocs\RentAFlat_Symfony\config/../vendor/swiftmailer/swiftmailer/lib/swift_init.php' not found or invalid function name)
+Feb 21 01:50:58 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 21 01:50:58 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 21 01:50:58 symfony [info] {contentActions} Call "contentActions->executeIndex()"
+Feb 21 01:50:58 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\RentAFlat_Symfony\apps\frontend\modules/content/templates/indexSuccess.php"
+Feb 21 01:50:58 symfony [info] {sfPHPView} Decorate content with "C:\xampp\htdocs\RentAFlat_Symfony\apps\frontend\templates/layout.php"
+Feb 21 01:50:58 symfony [info] {sfPHPView} Render "C:\xampp\htdocs\RentAFlat_Symfony\apps\frontend\templates/layout.php"
+Feb 21 01:50:58 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\symfony\symfony1\lib\response\sfWebResponse.class.php on line 336 (Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php:61))
+Feb 21 01:50:58 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 21 01:50:58 symfony [warning] {sfWebDebugLogger}  Warning at C:\xampp\htdocs\RentAFlat_Symfony\vendor\symfony\symfony1\lib\response\sfWebResponse.class.php on line 357 (Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\RentAFlat_Symfony\vendor\swiftmailer\swiftmailer\lib\classes\Swift.php:61))
+Feb 21 01:50:58 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 21 01:50:58 symfony [info] {sfWebDebugLogger} Configuration 27.58 ms (9)
+Feb 21 01:50:58 symfony [info] {sfWebDebugLogger} Factories 212.38 ms (1)
+Feb 21 01:50:58 symfony [info] {sfWebDebugLogger} Action "content/index" 2.14 ms (1)
+Feb 21 01:50:58 symfony [info] {sfWebDebugLogger} View "Success" for "content/index" 84.97 ms (1)
+Feb 21 01:50:58 symfony [info] {sfWebResponse} Send content (36069 o)
